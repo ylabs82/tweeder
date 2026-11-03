@@ -1,0 +1,8 @@
+[package]
+name = "tweeder"
+version = "0.1.0"
+authors = ["Yago Mouriño Mendaña <ylabs82@gmail.com>"]
+edition = "2024"
+
+[dependencies]
+clap = { version = "~4.6.0", features = ["derive"] }
